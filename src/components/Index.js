@@ -12,7 +12,11 @@ export default Index
 const styles = {
 
 container : {
-    width: 70%
+    width: '70%',
+    marginLeft:'auto',
+    marginRight:'auto',
+    padding:'1em',
+
 }
 
 }

@@ -17,6 +17,6 @@ export default Header
 const styles = {
   container: {
     display:'flex',
-    justifyContent: 'space-around',
+    justifyContent: 'space-between',
   }
 }
